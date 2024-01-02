@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\bin\Debug\net8.0\MetodoPomodoroAndre.exe
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\bin\Debug\net8.0\MetodoPomodoroAndre.deps.json
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\bin\Debug\net8.0\MetodoPomodoroAndre.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\bin\Debug\net8.0\MetodoPomodoroAndre.dll
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\bin\Debug\net8.0\MetodoPomodoroAndre.pdb
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\MetodoPomodoroAndre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\MetodoPomodoroAndre.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\MetodoPomodoroAndre.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\MetodoPomodoroAndre.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\MetodoPomodoroAndre.dll
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\refint\MetodoPomodoroAndre.dll
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\MetodoPomodoroAndre.pdb
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\MetodoPomodoroAndre.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\pasta projetos programação\CursoCsharp\MetodoPomodoroAndre\MetodoPomodoroAndre\obj\Debug\net8.0\ref\MetodoPomodoroAndre.dll
